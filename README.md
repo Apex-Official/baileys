@@ -1,6 +1,6 @@
 <div align='center'>
   <h1>APEX Baileys</h1>
-  <img src="https://raw.githubusercontent.com/Apex-Official/apex-baileys/main/banner-neon.png" width="600"/>
+  <img src="https://files.catbox.moe/3g1ep9.jpg" width="600"/>
 </div>
 
 <div align='center'>
