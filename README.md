@@ -1,14 +1,14 @@
-<div align='center'>
+<div align="center">
 
-<h1>APEX Baileys</h1>
+# <span style="color:#FF0000;">APEX Baileys</span> 🔥
 
 <img src="https://files.catbox.moe/3g1ep9.jpg" width="600"/>
 
-<br><br>
+<br>
 
-<!-- JS & Node Logos -->
+<!-- Logos -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="90"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="120"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/768px-Node.js_logo.svg.png" width="120"/>
 
 <br><br>
 
@@ -17,44 +17,38 @@ Built for developers who want **speed, stability and full control**
 Developed by **RADIO DEMON** — APEX / Dark Team  
 
 </div>
-[🌐 Visit Official Site]
-https://apex-official.vercel.app/  
-[💬 WhatsApp Updates Channel]
-https://whatsapp.com/channel/0029Vb6qkXM8V0tvdYh1fJ2g
----
-
-## 🔧 What is APEX Baileys?
-
-APEX Baileys is an improved and modified version of the WhatsApp Web API.  
-It focuses on **performance**, **clean handling**, and **support for all modern WhatsApp login methods**.
-
-The goal is to give developers a **production-ready** library that works smoothly without patching or editing core files.
 
 ---
 
-## 🚀 Features Overview
+[🌐 Visit Official Site](https://apex-official.vercel.app/)  
+[💬 WhatsApp Updates Channel](https://whatsapp.com/channel/0029Vb6qkXM8V0tvdYh1fJ2g)
+
+---
+
+## 🔥 Features Overview
 
 ### ✔ Core Fixes
-- LID linking completely fixed  
-- Session stabilization  
-- Restart-safe authentication  
-- Compatible with every WhatsApp update
+- ⚡ LID linking completely fixed  
+- ⚡ Session stabilization  
+- ⚡ Restart-safe authentication  
+- ⚡ Compatible with every WhatsApp update
 
 ### ✔ Authentication Support
-- QR Code Login  
-- Pairing (8-digit) Login  
-- Multi-device support  
+- 🔑 QR Code Login  
+- 🔑 Pairing (8-digit) Login  
+- 🔑 Multi-device support  
 
 ### ✔ Extra Enhancements
-- Faster group operations  
-- Full media support (images, videos, audio, docs, stickers)  
-- Auto reconnect system  
-- Clean & readable error outputs  
-- Developer-friendly structure  
-- Supports TypeScript and JavaScript projects  
+- 🚀 Faster group operations  
+- 📦 Full media support (images, videos, audio, docs, stickers)  
+- 🔄 Auto reconnect system  
+- 🛠 Clean & readable error outputs  
+- 💻 Developer-friendly structure  
+- 📝 Supports TypeScript and JavaScript projects  
 
 ---
-## Tech Stack
+
+## 🧩 Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
@@ -62,7 +56,8 @@ The goal is to give developers a **production-ready** library that works smoothl
 </div>
 
 ---
-## 📁 Example Usage (JavaScript)
+
+## 🎨 Example Usage (JavaScript)
 
 ```js
 import makeWASocket from "apex-baileys";
