@@ -17,7 +17,10 @@ Built for developers who want **speed, stability and full control**
 Developed by **RADIO DEMON** — APEX / Dark Team  
 
 </div>
+[🌐 Visit Official Site](https://apex-official.vercel.app/)  
+[💬 WhatsApp Updates Channel](https://whatsapp.com/channel/0029VaXYZ)
 
+---
 ---
 
 ## 🔧 What is APEX Baileys?
@@ -51,7 +54,14 @@ The goal is to give developers a **production-ready** library that works smoothl
 - Supports TypeScript and JavaScript projects  
 
 ---
+## Tech Stack
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70"/>
+</div>
 
+---
 ## 📁 Example Usage (JavaScript)
 
 ```js
